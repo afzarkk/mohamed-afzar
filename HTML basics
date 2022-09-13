@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head> 
+ <title> HTML page </title>    
+</head>
+<body>
+  <h1><b>Today's News</b></h1>
+    This is a today's news. <div> This is a another news. </div> <p> Again another news </p>
+  <h2> CRICKET</h2>
+     <b>Sri Lanka’s</b>ousted president Rajapaksa returns to social media to laud &nbspvictorious cricket team.
+     <div>It is a low number of games when compared to..
+     <pre><b>England</b> (43 tests over the same period),
+     <b>Australia</b>(40) and
+     <b>India</b>(38),
+      and will do little to nurture players in the five-day arena.</pre></div>
+  <h2>FOOT BALL</h2>
+     The effect on Ajax’s fans is more complex, an almost perfect distillation of all the <br />benefits, blessings, imbalances and iniquities of modern <b>soccer</b>.
+     <p> The club had managed to remain in profit over the three financial years affected by the<b>COVID-19</b> pandemic, it added. </p>
+     <hr />
+</body>
+</html>
